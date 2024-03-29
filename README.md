@@ -1,4 +1,4 @@
-##Installation instructions
+## Installation instructions
 
 1.) Open a git command window & navigate to where you want the repo to be located.  Be sure there aren't other folders named "FtcRobotController" there (delete or move them if there are).
 
