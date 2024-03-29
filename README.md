@@ -1,3 +1,17 @@
+##Installation instructions
+
+1.) Open a git command window & navigate to where you want the repo to be located.  Be sure there aren't other folders named "FtcRobotController" there (delete or move them if there are).
+
+2.) run:
+	**git clone -b FtcRobotController_Offseason2024 --recursive https://github.com/FTC-Team-16942-Minutemen/FtcRobotController.git**
+
+3.) Once the FrcRobotController branch repo and the teamcode repo are downloaded, inside the command window, cd to the TeamCode directory.  
+
+4.) In the TeamCode folder run: 
+	**git checkout main**
+
+Then you should be all ready to go.  If you have issues getting these repos, you may need permission to access them on the 16842 Github.  
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the CENTERSTAGE (2023-2024) competition season.
