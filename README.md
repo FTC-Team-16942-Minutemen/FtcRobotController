@@ -1,3 +1,22 @@
+## Installation instructions
+
+Follow these instructions to setup the necessary FtcRobotController & TeamCode repos on your PC.  
+
+1.) Be sure you have permission to access the repos on the 16842 Github.  (Otherwise the clone operation will fail)
+
+2.) Open a git command window & navigate to where you want the repo to be located.  Be sure there aren't other folders named "FtcRobotController" there (delete or move them if there are).
+
+3.) run:
+	**git clone -b FtcRobotController_IntoTheDeep2024 --recursive https://github.com/FTC-Team-16942-Minutemen/FtcRobotController.git**
+
+4.) Once the FrcRobotController branch repo and the teamcode repo are downloaded, inside the command window, cd to the TeamCode directory.  
+
+5.) In the TeamCode folder run: 
+	**git checkout main**
+
+Then you should be all ready to go.  
+
+If find you still have issues getting these repos, again double check you have permission to access them on the 16842 Github (talk to an administrator).  If you have permission and it still doesn't work, another thing to check is that someone may have left themselves signed on that PC's Github desktop account (it's effects can bleed into git CMD windows) and that person doesn't have access to the repos.
 ## NOTICE
 
 This repository contains the public FTC SDK for the INTO THE DEEP (2024-2025) competition season.
